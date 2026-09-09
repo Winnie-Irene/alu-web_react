@@ -3,9 +3,7 @@ node_modules/
 *.map
 task_0/dist/main.js
 task_0/dist/*.LICENSE.txt
-task_1/public/bundle.js
 task_1/public/*.LICENSE.txt
-task_2/public/bundle.js
 task_2/public/*.LICENSE.txt
 task_2/public/*.jpg
 task_3/public/
